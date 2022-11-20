@@ -40,6 +40,7 @@
     el.addEventListener('scroll', listener)
   }
 
+
   /**
    * Navbar links active state on scroll
    */
