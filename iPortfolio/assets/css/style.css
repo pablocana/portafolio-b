@@ -299,7 +299,7 @@ section {
 }
 
 .section-bg {
-  background: #f5f8fd;
+  background: #b7b8b927;
 }
 
 .section-title {
@@ -421,11 +421,12 @@ section {
 --------------------------------------------------------------*/
 .skills .progress {
   height: 60px;
-  justify-content: center;
+  /* justify-content: center; */
   background: none;
   border-radius: 0;
   font-size: medium;
 }
+
 
 .skills .progress .skill {
   padding: 0;
